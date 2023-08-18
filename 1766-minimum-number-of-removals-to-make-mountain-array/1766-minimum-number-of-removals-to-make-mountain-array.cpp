@@ -1,36 +1,40 @@
-int speedup = []{ios::sync_with_stdio(0); cin.tie(0); return 0;}();
-int keep[1000], vs[1000];
-
 class Solution {
 public:
-    vector<int>check(vector<int>v){
-        vector<int>lis,ans;
-        for(int i=0;i<v.size();i++){
-            auto li=lower_bound(lis.begin(),lis.end(),v[i]);
-            if(li==lis.end()){
-                lis.push_back(v[i]);
-            }
-            else{
-                *li=v[i];
-            }
-            ans.push_back(lis.size());
-        }
-        return ans;
-    }
     int minimumMountainRemovals(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>a,b;
-        a=check(nums);
-        reverse(nums.begin(),nums.end());
-        b=check(nums);
-        reverse(b.begin(),b.end());
-        int ma=0;
-        for(int i=0;i<n;i++){
-            if(a[i]>1 && b[i]>1){
-                ma=max(ma,(a[i]+b[i]-1));
+        vector<int> lis(nums.size(),1);
+        vector<int> ris(nums.size(),1);
+        for(int i=1;i<nums.size();i++){
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]){
+                    lis[i]=max(lis[i],lis[j]+1);
+                }
             }
         }
-        return n-ma;
+        for(int i=nums.size()-2;i>=0;i--){
+            for(int j=nums.size()-1;j>i;j--){
+                if(nums[i]>nums[j]){
+                    ris[i]=max(ris[i],ris[j]+1);
+                }
+            }
+        }/*
+        for(int i=0;i<nums.size();i++){
+            cout<<lis[i]<<" ";
+        }
+        cout<<endl;
+        for(int i=0;i<nums.size();i++){
+            cout<<ris[i]<<" ";
+        }
+        cout<<endl;*/
+        int m = 0;
+        for (int i = 1; i < nums.size() - 1; i++) {
+            if (lis[i] > 1 && ris[i] > 1) {
+                //cout<<"i="<<i<<" ";
+                m = max(m, lis[i] + ris[i] - 1);
+            }
+        }
+        //cout<<endl;
+        //cout<<"m="<<m<<endl;
+        return (nums.size()-m);
 
     }
 };
