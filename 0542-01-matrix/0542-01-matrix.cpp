@@ -1,41 +1,52 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int rows = mat.size();
-        int cols = mat[0].size();
+        int m = mat.size();
+        int n = mat[0].size();
+        vector<vector<int>> dp;
         
-        vector<vector<int>> dist(rows, vector<int>(cols, -1)); // Initialize distances with -1
-        queue<pair<int, int>> q; // Queue for BFS
-        
-        // Initialize the queue and distances for cells with value 0
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (mat[i][j] == 0) {
-                    dist[i][j] = 0;
-                    q.push({i, j});
-                }
-            }
+        for (vector<int>& row: mat) {
+            dp.emplace_back(row.begin(), row.end());
         }
         
-        // Define possible directions
-        vector<pair<int, int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
-        
-        // Perform BFS
-        while (!q.empty()) {
-            auto current = q.front();
-            q.pop();
-            
-            for (auto dir : directions) {
-                int newRow = current.first + dir.first;
-                int newCol = current.second + dir.second;
+        for (int row = 0; row < m; row++) {
+            for (int col = 0; col < n; col++) {
+                if (dp[row][col] == 0) {
+                    continue;
+                }
+
+                int minNeighbor = m * n;
+                if (row > 0) {
+                    minNeighbor = min(minNeighbor, dp[row - 1][col]);
+                }
                 
-                if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && dist[newRow][newCol] == -1) {
-                    dist[newRow][newCol] = dist[current.first][current.second] + 1;
-                    q.push({newRow, newCol});
+                if (col > 0) {
+                    minNeighbor = min(minNeighbor, dp[row][col - 1]);
                 }
+                
+                dp[row][col] = minNeighbor + 1;
             }
         }
         
-        return dist;
+        for (int row = m - 1; row >= 0; row--) {
+            for (int col = n - 1; col >= 0; col--) {
+                if (dp[row][col] == 0) {
+                    continue;
+                }
+                
+                int minNeighbor = m * n;
+                if (row < m - 1) {
+                    minNeighbor = min(minNeighbor, dp[row + 1][col]);
+                }
+                
+                if (col < n - 1) {
+                    minNeighbor = min(minNeighbor, dp[row][col + 1]);
+                }
+                
+                dp[row][col] = min(dp[row][col], minNeighbor + 1);
+            }
+        }
+        
+        return dp;
     }
 };
