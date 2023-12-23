@@ -27,14 +27,8 @@ public:
         }
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int n=0;
+        int n=edges.size();
         int i=0;
-        for (auto x : edges) {
-            n = max({n, x[0], x[1]});
-            m[{x[0], x[1]}] = i;
-            i++;
-        }
-
         vector<vector<int>> graph(n + 1);
         for(auto x:edges){
             n=max({n,x[0],x[1]});
