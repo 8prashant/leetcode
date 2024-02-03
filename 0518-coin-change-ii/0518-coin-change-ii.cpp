@@ -1,24 +1,31 @@
 class Solution {
 public:
-    int check(int amount, const vector<int>& coins,int n,vector<vector<int>>&v){
+    vector<vector<int>> dp;
+    int dfs(int amount, vector<int>& coins,int index){
         if(amount==0){
             return 1;
         }
-        if(n<=0){
+        if(index==0){
+            cout<<"amount="<<amount<<endl;
+            if(amount%coins[0]==0){
+                return 1;
+            }
             return 0;
         }
-        if(v[amount][n]!=-1){
-            return v[amount][n];
+        if(dp[index][amount]!=-1){
+            return dp[index][amount];
         }
-        int res=check(amount,coins,n-1,v);
-        if(coins[n-1]<=amount){
-            res=res+check(amount-coins[n-1],coins,n,v);
+        int notinc=dfs(amount,coins,index-1);
+        int inc=0;
+        if(coins[index]<=amount){
+            inc=dfs(amount-coins[index],coins,index);
         }
-        v[amount][n]=res;
-        return v[amount][n];
+        dp[index][amount]=notinc+inc;
+        return dp[index][amount];
     }
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>>v(amount+1,vector<int>(coins.size()+1,-1));
-        return check(amount,coins,coins.size(),v);
+        int n=coins.size();
+        dp.assign(n,vector<int>(amount+1,-1));
+        return dfs(amount,coins,coins.size()-1);
     }
 };
