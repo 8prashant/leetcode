@@ -1,26 +1,71 @@
+//MEMOIZATION
+
+// class Solution {
+// public:
+    
+//     int dfs(string &text1, string &text2, int index1, int index2,vector<vector<int>>&dp) {
+//         if (index1 < 0 || index2 < 0) {
+//             return 0;
+//         }
+//         if(dp[index1][index2]!=-1){
+//             return dp[index1][index2];
+//         }
+//         if (text1[index1] == text2[index2]) {
+//             return dp[index1][index2]=1 + dfs(text1, text2, index1 - 1, index2 - 1,dp);
+//         }
+//         return dp[index1][index2]=max(dfs(text1, text2, index1 - 1, index2,dp), dfs(text1, text2, index1, index2 - 1,dp));
+//     }
+
+//     int longestCommonSubsequence(string text1, string text2) {
+//         int n = text1.size(), m = text2.size();
+//         vector<vector<int>> dp(n, vector<int>(m, -1));
+//         return dfs(text1, text2, n - 1, m - 1, dp);
+//     }
+// };
+
+//TABULATION
+// class Solution {
+// public:
+    
+//     int dfs(string &text1, string &text2, int index1, int index2,vector<vector<int>>&dp) {
+//         if (index1 < 0 || index2 < 0) {
+//             return 0;
+//         }
+//         if(dp[index1][index2]!=-1){
+//             return dp[index1][index2];
+//         }
+//         if (text1[index1] == text2[index2]) {
+//             return dp[index1][index2]=1 + dfs(text1, text2, index1 - 1, index2 - 1,dp);
+//         }
+//         return dp[index1][index2]=max(dfs(text1, text2, index1 - 1, index2,dp), dfs(text1, text2, index1, index2 - 1,dp));
+//     }
+
+//     int longestCommonSubsequence(string text1, string text2) {
+//         int n = text1.size(), m = text2.size();
+//         vector<vector<int>> dp(n, vector<int>(m, -1));
+//         return dfs(text1, text2, n - 1, m - 1, dp);
+//     }
+// };
+
+//SPACE OPTIMIZATION
 class Solution {
 public:
-    int longestCommonSubsequence(string t1, string t2) {
-        int m=t1.size();
-        int n=t2.size();
-        vector<vector<int>> v(m+1 , vector<int>(n+1,-1));
-        for(int i=0;i<=m;i++){
-            v[i][0]=0;
-        }
-        for(int i=0;i<=n;i++){
-            v[0][i]=0;
-        }
-        for(int i=1;i<=m;i++){
-            for(int j=1;j<=n;j++){
-                if(t1[i-1]==t2[j-1]){
-                    v[i][j]=1+v[i-1][j-1];
+    int longestCommonSubsequence(string text1, string text2) {
+        int n = text1.size(), m = text2.size();
+        vector<int> prev(m+1,0);
+        for(int i=1;i<=n;i++){
+            vector<int> curr(m+1);
+            curr[0]=0;
+            for(int j=1;j<=m;j++){
+                if(text1[i-1]==text2[j-1]){
+                    curr[j]=1+prev[j-1];
                 }
                 else{
-                    v[i][j]=max(v[i][j-1],v[i-1][j]);
+                    curr[j]=max(prev[j],curr[j-1]);
                 }
             }
+            prev=curr;
         }
-        return v[m][n];
-        
+        return prev[m];
     }
 };
