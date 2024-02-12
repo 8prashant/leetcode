@@ -1,5 +1,6 @@
 class Solution {
 public:
+    vector<vector<int>> dp;
     int dfs(int i, int j, vector<int>& nums){
         if(i==j){
             return nums[i];
@@ -7,12 +8,16 @@ public:
         else if(i>j){
             return 0;
         }
+        if(dp[i][j]!=-1){
+            return dp[i][j];
+        }
         int a=nums[i]+min(dfs(i+2,j,nums),dfs(i+1,j-1,nums));
         int b=nums[j]+min(dfs(i+1,j-1,nums),dfs(i,j-2,nums));
-        return max(a,b);
+        return dp[i][j]=max(a,b);
     }
     bool predictTheWinner(vector<int>& nums) {
         int n=nums.size();
+        dp.assign(n,vector<int>(n,-1));
         int total=0;
         for(int i=0;i<n;i++){
             total+=nums[i];
