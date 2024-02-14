@@ -1,29 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> dp;
-    int dfs(int i, int j, vector<int>& nums){
-        if(i==j){
-            return nums[i];
-        }
-        else if(i>j){
-            return 0;
-        }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        int a=nums[i]+min(dfs(i+2,j,nums),dfs(i+1,j-1,nums));
-        int b=nums[j]+min(dfs(i+1,j-1,nums),dfs(i,j-2,nums));
-        return dp[i][j]=max(a,b);
-    }
     bool predictTheWinner(vector<int>& nums) {
-        int n=nums.size();
-        dp.assign(n,vector<int>(n,-1));
-        int total=0;
-        for(int i=0;i<n;i++){
-            total+=nums[i];
+        int n = nums.size();
+        if (n == 1) {
+            return true;
         }
-        int p1=dfs(0,n-1,nums);
-        cout<<"p1="<<p1<<endl;
-        return (total-p1)<=p1;
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+        int total = 0;
+        for (int i = 0; i < n; i++) {
+            total += nums[i];
+            dp[i][i] = nums[i];
+        }
+        for (int len = 1; len < n; len++) {
+            for (int i = 0; i < n - len; i++) {
+                int j = i + len;
+                dp[i][j] = max(nums[i] + min((i+2<n)?dp[i + 2][j]:0, (i+1<n && j-1>=0)?dp[i + 1][j - 1]:0),
+                            nums[j] + min((i+1<n && j-1>=0)?dp[i + 1][j - 1]:0, (j-2>=0)?dp[i][j - 2]:0));
+            }
+        }
+        int p1 = dp[0][n - 1];
+        cout << "p1=" << p1 << endl;
+        return (total - p1) <= p1;
     }
 };
