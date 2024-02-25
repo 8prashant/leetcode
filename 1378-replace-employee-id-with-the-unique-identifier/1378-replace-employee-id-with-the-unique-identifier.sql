@@ -1,0 +1,2 @@
+SELECT EU.unique_id,E.NAME FROM Employees E
+LEFT JOIN EmployeeUNI EU ON EU.ID=E.ID
