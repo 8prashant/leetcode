@@ -1,6 +1,22 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        return *min_element(nums.begin(),nums.end());
+        int ans=INT_MAX;
+        int low=0,high=nums.size()-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            ans=min({ans,nums[mid],nums[low],nums[high]});
+            if(nums[low]==nums[mid] && nums[mid]==nums[high]){
+                low++;
+                high--;
+            }
+            else if(nums[high]>=nums[mid]){
+                high=mid-1;
+            }
+            else if(nums[low]<=nums[mid]){
+                low=mid+1;
+            }
+        }
+        return ans;
     }
 };
