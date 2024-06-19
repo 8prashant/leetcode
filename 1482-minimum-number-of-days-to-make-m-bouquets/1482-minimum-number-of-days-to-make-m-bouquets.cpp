@@ -16,7 +16,6 @@ public:
         return ans>=m;
     }
     int minDays(vector<int>& nums,int m, int k) {
-        // size_t n=nums.size(),total=m*k;
         if(nums.size()/k<m){
             return -1;
         }
