@@ -1,30 +1,37 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    bool dfs(int i, int j, string &s, string &p){
+    vector<vector<int>>dp;
+    bool check(string &s, string &p,int i,int j){
         if(i<0 && j<0){
             return true;
         }
         if(i<0 && p[j]=='*'){
-            return true && dfs(i,j-1,s,p);
+            return check(s,p,i,j-1);
         }
         if(i<0 || j<0){
             return false;
         }
         if(dp[i][j]!=-1){
-            return dp[i][j];
+            return dp[i][j]==1?true:false;
         }
-        if(p[j]!='*' && p[j]!='?'){
-            return dp[i][j]=s[i]==p[j]? dfs(i-1,j-1,s,p):false;
+        if(s[i]==p[j]){
+            return dp[i][j]=check(s,p,i-1,j-1)==true?1:0;
         }
         else if(p[j]=='?'){
-            return dp[i][j]=dfs(i-1,j-1,s,p);
+            return dp[i][j]=check(s,p,i-1,j-1)==true?1:0;
         }
-        return dp[i][j]=dfs(i-1,j-1,s,p) || dfs(i-1,j,s,p) || dfs(i,j-1,s,p);
+        else if(p[j]=='*'){
+            return dp[i][j]=(
+                check(s,p,i-1,j) ||
+                check(s,p,i,j-1) ||
+                check(s,p,i-1,j-1)
+            )==true?1:0;
+        }
+        dp[i][j]=0;
+        return false;
     }
     bool isMatch(string s, string p) {
-        int n=s.size(),m=p.size();
-        dp.assign(n,vector<int>(m,-1));
-        return dfs(n-1,m-1,s,p);
+        dp.resize(s.size(),vector<int>(p.size(),-1));
+        return check(s,p,s.size()-1,p.size()-1);
     }
 };
