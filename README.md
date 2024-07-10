@@ -84,6 +84,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/8prashant/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/8prashant/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -101,6 +103,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/8prashant/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/8prashant/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -110,6 +113,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
