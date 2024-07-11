@@ -1,6 +1,9 @@
 class Solution {
 public:
     int maxScore(vector<int>& c, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int i=k-1,j=c.size()-1;
         int sum=0;
         for(int l=0;l<=i;l++){
