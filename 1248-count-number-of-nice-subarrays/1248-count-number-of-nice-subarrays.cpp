@@ -1,16 +1,27 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<int> cnt(n + 1, 0);
-        cnt[0] = 1;
-        int ans = 0, t = 0;
-        for (int v : nums) {
-            t += v & 1;
-            if (t - k >= 0) {
-                ans += cnt[t - k];
+        int i=0,j=0;
+        int ans=0;
+        while(j<nums.size()){
+            if(nums[j]%2!=0){
+                k--;
             }
-            cnt[t]++;
+            while(k<=0){
+                int l=j+1;
+                while(l<nums.size()){
+                    if(nums[l]%2!=0){
+                        break;
+                    }
+                    l++;
+                }
+                if(nums[i]%2!=0){
+                    k++;
+                }
+                ans+=(l-j);
+                i++;
+            }
+            j++;
         }
         return ans;
     }
