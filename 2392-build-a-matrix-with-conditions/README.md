@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/build-a-matrix-with-conditions/">2392. Build a Matrix With Conditions</a></h2><h3>Hard</h3><hr><div><p>You are given a <strong>positive</strong> integer <code>k</code>. You are also given:</p>
+<h2><a href="https://leetcode.com/problems/build-a-matrix-with-conditions/?envType=daily-question&envId=2024-07-21">2392. Build a Matrix With Conditions</a></h2><h3>Hard</h3><hr><p>You are given a <strong>positive</strong> integer <code>k</code>. You are also given:</p>
 
 <ul>
 	<li>a 2D integer array <code>rowConditions</code> of size <code>n</code> where <code>rowConditions[i] = [above<sub>i</sub>, below<sub>i</sub>]</code>, and</li>
@@ -20,8 +20,9 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/07/06/gridosdrawio.png" style="width: 211px; height: 211px;">
-<pre><strong>Input:</strong> k = 3, rowConditions = [[1,2],[3,2]], colConditions = [[2,1],[3,2]]
+<img alt="" src="https://assets.leetcode.com/uploads/2022/07/06/gridosdrawio.png" style="width: 211px; height: 211px;" />
+<pre>
+<strong>Input:</strong> k = 3, rowConditions = [[1,2],[3,2]], colConditions = [[2,1],[3,2]]
 <strong>Output:</strong> [[3,0,0],[0,0,1],[0,2,0]]
 <strong>Explanation:</strong> The diagram above shows a valid example of a matrix that satisfies all the conditions.
 The row conditions are the following:
@@ -35,7 +36,8 @@ Note that there may be multiple correct answers.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> k = 3, rowConditions = [[1,2],[2,3],[3,1],[2,3]], colConditions = [[2,1]]
+<pre>
+<strong>Input:</strong> k = 3, rowConditions = [[1,2],[2,3],[3,1],[2,3]], colConditions = [[2,1]]
 <strong>Output:</strong> []
 <strong>Explanation:</strong> From the first two conditions, 3 has to be below 1 but the third conditions needs 3 to be above 1 to be satisfied.
 No matrix can satisfy all the conditions, so we return the empty matrix.
@@ -52,4 +54,3 @@ No matrix can satisfy all the conditions, so we return the empty matrix.
 	<li><code>above<sub>i</sub> != below<sub>i</sub></code></li>
 	<li><code>left<sub>i</sub> != right<sub>i</sub></code></li>
 </ul>
-</div>
