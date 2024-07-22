@@ -1,56 +1,42 @@
-
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (s.empty() || t.empty()) {
+        if(s.size()<=0 ||t.size()<=0 || s.size()<t.size()){
             return "";
         }
-
-        unordered_map<char, int> dictT;
-        for (char c : t) {
-            int count = dictT[c];
-            dictT[c] = count + 1;
+        unordered_map<int,int>m;
+        for(auto x:t){
+            m[x]++;
         }
-
-        int required = dictT.size();
-        int l = 0, r = 0;
-        int formed = 0;
-
-        unordered_map<char, int> windowCounts;
-        int ans[3] = { -1, 0, 0 };
-
-        while (r < s.length()) {
-            char c = s[r];
-            int count = windowCounts[c];
-            windowCounts[c] = count + 1;
-
-            if (dictT.find(c) != dictT.end() && windowCounts[c] == dictT[c]) {
-                formed++;
+        int i=0,j=0,count=t.size();
+        int st,e;
+        int ans=INT_MAX;
+        while(j<s.size()){
+            if(m[s[j]]>0){
+                count--;
             }
-
-            while (l <= r && formed == required) {
-                c = s[l];
-
-                if (ans[0] == -1 || r - l + 1 < ans[0]) {
-                    ans[0] = r - l + 1;
-                    ans[1] = l;
-                    ans[2] = r;
+            m[s[j]]--;
+            while(count==0){
+                if(m[s[i]]>=0){
+                    count++;
                 }
-
-                windowCounts[c]--;
-                if (dictT.find(c) != dictT.end() && windowCounts[c] < dictT[c]) {
-                    formed--;
+                m[s[i]]++;
+                if((j-i+1)<ans){
+                    ans=(j-i+1);
+                    st=i;
+                    e=j;
                 }
-
-                l++;
+                i++;
             }
-
-            r++;
+            j++;
         }
-
-        return ans[0] == -1 ? "" : s.substr(ans[1], ans[0]);
+        if(ans==INT_MAX){
+            return "";
+        }
+        string res;
+        for(int i=st;i<=e;i++){
+            res+=s[i];
+        }
+        return res;
     }
 };
-
-
-
