@@ -70,6 +70,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/8prashant/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/8prashant/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
@@ -94,6 +95,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/8prashant/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -121,6 +123,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/8prashant/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/8prashant/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0583-delete-operation-for-two-strings) |
