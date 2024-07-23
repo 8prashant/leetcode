@@ -1,27 +1,26 @@
 class Solution {
 public:
     vector<vector<int>>dp;
-    int dfs(int p,int n,vector<int>& prices,int buy,int fee){
-        if(p==n){
+    int check(int i,bool buy,vector<int>& p, int &fee){
+        if(i>=p.size()){
             return 0;
         }
-        if(dp[p][buy]!=-1){
-            return dp[p][buy];
+        if(dp[i][buy]!=-1){
+            return dp[i][buy];
         }
-        if(buy==0){
-            return dp[p][buy]=max(
-                dfs(p+1,n,prices,1,fee)-prices[p],
-                dfs(p+1,n,prices,buy,fee)
+        if(buy==true){
+            return dp[i][buy]=max(
+                -p[i]+check(i+1,false,p,fee),
+                check(i+1,buy,p,fee)
             );
         }
-        return dp[p][buy]=max(
-            dfs(p+1,n,prices,0,fee)+(prices[p]-fee),
-            dfs(p+1,n,prices,buy,fee)
+        return dp[i][buy]=max(
+            p[i]-fee+check(i+1,true,p,fee),
+            check(i+1,buy,p,fee)
         );
     }
-    int maxProfit(vector<int>& prices, int fee) {
-        int n=prices.size();
-        dp.assign(n,vector<int>(2,-1));
-        return dfs(0,n,prices,0,fee);
+    int maxProfit(vector<int>& p, int fee) {
+        dp.resize(p.size(),vector<int>(2,-1));
+        return check(0,true,p,fee);
     }
 };
