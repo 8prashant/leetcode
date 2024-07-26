@@ -35,6 +35,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/8prashant/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/8prashant/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
 |  |
@@ -152,6 +153,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1250-longest-common-subsequence](https://github.com/8prashant/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8prashant/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/8prashant/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
 |  |
 | ------- |
@@ -178,4 +180,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/8prashant/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
