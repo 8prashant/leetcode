@@ -133,6 +133,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
+| [1197-parsing-a-boolean-expression](https://github.com/8prashant/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/8prashant/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8prashant/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -158,6 +159,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
+| [1197-parsing-a-boolean-expression](https://github.com/8prashant/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -167,6 +169,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
+| [1197-parsing-a-boolean-expression](https://github.com/8prashant/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
