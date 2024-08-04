@@ -24,6 +24,10 @@ public:
                 ans=min(ans,1+check(l,j,s));
             }
         }
+        //BLOW APPROCH WILL GIVE TLE
+        // for(int l=i+1;l<=j;l++){ 
+        //     ans=min(ans,1+check(i,l-1,s)+check(l,j,s));
+        // }
         return dp[i][j]=ans;
     }
     int minCut(string s) {
