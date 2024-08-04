@@ -70,6 +70,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1511-count-number-of-teams](https://github.com/8prashant/leetcode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/8prashant/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -125,6 +126,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String
 |  |
@@ -182,6 +184,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Tree
 |  |
 | ------- |
@@ -199,4 +202,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/8prashant/leetcode/tree/master/1511-count-number-of-teams) |
+## Two Pointers
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
