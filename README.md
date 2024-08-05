@@ -67,6 +67,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1121-partition-array-for-maximum-sum](https://github.com/8prashant/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1511-count-number-of-teams](https://github.com/8prashant/leetcode/tree/master/1511-count-number-of-teams) |
@@ -164,6 +165,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1121-partition-array-for-maximum-sum](https://github.com/8prashant/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/8prashant/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8prashant/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/8prashant/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
