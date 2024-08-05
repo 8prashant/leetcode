@@ -60,6 +60,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/8prashant/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/8prashant/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/8prashant/leetcode/tree/master/0312-burst-balloons) |
+| [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/8prashant/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/8prashant/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/8prashant/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -159,6 +160,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0132-palindrome-partitioning-ii](https://github.com/8prashant/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/8prashant/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/8prashant/leetcode/tree/master/0312-burst-balloons) |
+| [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -211,4 +213,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
