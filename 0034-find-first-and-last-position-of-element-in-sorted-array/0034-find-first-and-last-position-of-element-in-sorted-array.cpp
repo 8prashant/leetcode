@@ -1,36 +1,37 @@
 class Solution {
 public:
+    int first=INT_MAX,last=INT_MIN;
+    void check(int i , int j,vector<int>& nums, int &target){
+        if(i>j){
+            return;
+        }
+        while(i<=j){
+            int mid=j+(i-j)/2;
+            if(nums[mid]==target){
+                first=min(first,mid);
+                last=max(last,mid);
+                check(i,mid-1,nums,target);
+                check(mid+1,j,nums,target);
+                return;
+            }
+            if(target>nums[mid]){
+                i=mid+1;
+            }
+            else{
+                j=mid-1;
+            }
+        }
+        return;
+
+    }
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int>  v={-1,-1};
-        int low=0,high=nums.size()-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                v[0]=mid;
-                v[1]=max(v[1],mid);
-                high=mid-1;
-            }
-            else if(nums[mid]>target){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
+        if(nums.size()==0){
+            return {-1,-1};
         }
-        low=0,high=nums.size()-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                v[1]=mid;
-                low=mid+1;
-            }
-            else if(nums[mid]>target){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
+        check(0,nums.size()-1,nums,target);
+        if(first==INT_MAX){
+            return {-1,-1};
         }
-        return v;
+        return {first,last};
     }
 };
