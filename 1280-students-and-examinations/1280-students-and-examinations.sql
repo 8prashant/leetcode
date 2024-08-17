@@ -8,7 +8,12 @@
 -- group by Examinations.student_id,Examinations.subject_name;
 
 
-SELECT s.student_id,s.student_name,su.subject_name,COALESCE(et.attended_exams, 0) as attended_exams
+SELECT s.student_id,s.student_name,su.subject_name,
+(case 
+    when et.attended_exams is NULL
+    then 0
+    else et.attended_exams
+    end) as attended_exams
 FROM Students as s
 cross JOIN Subjects as su
 left join (
