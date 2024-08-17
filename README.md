@@ -263,4 +263,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/8prashant/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/8prashant/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
