@@ -1,13 +1,3 @@
--- select student_id,subject_name,count(subject_name) from Examinations
--- group by student_id,subject_name
--- order by student_id asc
-
--- select Students.student_id,Students.student_name,Subjects.subject_name,count(Examinations.subject_name) from Students
--- cross join Subjects
--- left join Examinations on Students.student_id=Examinations.student_id and Subjects.subject_name=Examinations.subject_name
--- group by Examinations.student_id,Examinations.subject_name;
-
-
 SELECT s.student_id,s.student_name,su.subject_name,
 (case 
     when et.attended_exams is NULL
