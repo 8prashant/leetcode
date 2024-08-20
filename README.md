@@ -293,4 +293,5 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/8prashant/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/8prashant/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/8prashant/leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/8prashant/leetcode/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
