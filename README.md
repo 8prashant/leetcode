@@ -275,6 +275,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/8prashant/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/8prashant/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/8prashant/leetcode/tree/master/0595-big-countries) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/8prashant/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/8prashant/leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/8prashant/leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/8prashant/leetcode/tree/master/0626-exchange-seats) |
