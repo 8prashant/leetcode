@@ -297,4 +297,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1908-recyclable-and-low-fat-products](https://github.com/8prashant/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/8prashant/leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/8prashant/leetcode/tree/master/2057-count-salary-categories) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/8prashant/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
