@@ -288,6 +288,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1390-average-selling-price](https://github.com/8prashant/leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/8prashant/leetcode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/8prashant/leetcode/tree/master/1452-restaurant-growth) |
+| [1480-movie-rating](https://github.com/8prashant/leetcode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/8prashant/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/8prashant/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/8prashant/leetcode/tree/master/1827-invalid-tweets) |
