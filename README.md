@@ -271,6 +271,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/8prashant/leetcode/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/8prashant/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/8prashant/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/8prashant/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/8prashant/leetcode/tree/master/0584-find-customer-referee) |
