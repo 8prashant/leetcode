@@ -292,6 +292,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1390-average-selling-price](https://github.com/8prashant/leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/8prashant/leetcode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/8prashant/leetcode/tree/master/1452-restaurant-growth) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/8prashant/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/8prashant/leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/8prashant/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/8prashant/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
