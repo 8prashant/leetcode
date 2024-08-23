@@ -270,6 +270,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/8prashant/leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/8prashant/leetcode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/8prashant/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/8prashant/leetcode/tree/master/0197-rising-temperature) |
