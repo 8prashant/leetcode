@@ -25,6 +25,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/8prashant/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/8prashant/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -36,6 +37,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -225,6 +227,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/8prashant/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/8prashant/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -235,6 +238,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/8prashant/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/8prashant/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
