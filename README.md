@@ -39,6 +39,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8prashant/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/8prashant/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -100,6 +102,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/8prashant/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -148,6 +151,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/8prashant/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -291,6 +295,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
