@@ -41,6 +41,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/8prashant/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,6 +263,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8prashant/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +280,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8prashant/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Shortest Path
 |  |
 | ------- |
