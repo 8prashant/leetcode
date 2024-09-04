@@ -77,6 +77,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/8prashant/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -98,6 +99,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/8prashant/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/8prashant/leetcode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/8prashant/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -126,6 +128,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0560-subarray-sum-equals-k](https://github.com/8prashant/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/8prashant/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8prashant/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
