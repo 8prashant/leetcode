@@ -18,35 +18,40 @@ class Solution {
 public:
     Node* copyRandomList(Node* head) {
         if(head==NULL){
-            return head;
+            return NULL;
         }
+        unordered_map<Node*,Node*>m;
+        m[NULL]=NULL;
         Node* curr=head;
+        Node* h2=NULL;
+        Node* t2=NULL;
         while(curr!=NULL){
-            Node* newnode = new Node(curr->val);
-            newnode->next=curr->next;
-            curr->next=newnode;
-            curr=newnode->next;
-        }
-
-        curr=head;
-        while(curr!=NULL){
-            if(curr->random!=NULL){
-                curr->next->random=curr->random->next;
+            if(m.find(curr)!=m.end()){
+                t2->next=m[curr];
+                t2=m[curr];
             }
-            curr=curr->next->next;
+            else{
+                Node* newnode=new Node{curr->val,NULL};
+                m[curr]=newnode;
+                if(h2==NULL){
+                    h2=newnode;
+                    t2=newnode;
+                }
+                else{
+                    t2->next=newnode;
+                    t2=newnode;
+                }
+            }
+            if(m.find(curr->random)!=m.end()){
+                t2->random=m[curr->random];
+            }
+            else{
+                Node* rnode=new Node{curr->random->val,NULL};
+                t2->random=rnode;
+                m[curr->random]=rnode;
+            }
+            curr=curr->next;
         }
-        curr=head;
-        Node* currhead=curr->next;
-        Node* currtail=currhead;
-        while(currtail->next!=NULL){
-            curr->next=currtail->next;
-            curr=currtail->next;
-            currtail->next=currtail->next->next;
-            currtail=currtail->next;
-        }
-        curr->next=NULL;
-        currtail->next=NULL;
-        return currhead;
-        
+        return h2;
     }
 };
