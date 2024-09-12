@@ -1,31 +1,38 @@
 class Solution {
 public:
     vector<int>dp;
-    int check(int n,vector<vector<int>>&cp,vector<int>& t){
-        if(dp[n]!=-1){
-            return dp[n];
+    int check(int x,vector<vector<int>>&cc,vector<vector<int>>&cp,vector<int>& t){
+        if(cp[x].size()==0){
+            return t[x-1];
         }
-        int cost=t[n-1];
-        int ma=0;
-        for(auto x:cp[n]){
-            ma=max(ma,check(x,cp,t));
+        if(dp[x]!=-1){
+            return dp[x];
         }
-        return dp[n]=cost+ma;
+        int ans=INT_MIN;
+        for(auto y:cp[x]){
+            ans=max(ans,t[x-1]+check(y,cc,cp,t));
+        }
+        return dp[x]=ans;
     }
-    int minimumTime(int n, vector<vector<int>>& r, vector<int>& t) {
-        vector<vector<int>>cc(n+1);
-        vector<vector<int>>cp(n+1);
-        dp.resize(n+1,-1);
-        int ans=0;
-        for(auto x:r){
+    int minimumTime(int n, vector<vector<int>>& re, vector<int>& t) {
+        vector<vector<int>>cc(n+1),cp(n+1);
+        for(auto x:re){
             cc[x[0]].push_back(x[1]);
             cp[x[1]].push_back(x[0]);
         }
-        for(int i=1;i<=n;i++){
+        dp.resize(n+1,-1);
+        queue<int>q;
+        for(int i=1;i<cc.size();i++){
             if(cc[i].size()==0){
-                int a=check(i,cp,t);
-                ans=max(ans,a);
+                q.push(i);
             }
+        }
+        int ans=0;
+        while(!q.empty()){
+            int a=q.front();
+            q.pop();
+            int res=check(a,cc,cp,t);
+            ans=max(ans,res);
         }
         return ans;
     }
