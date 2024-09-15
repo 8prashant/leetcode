@@ -1,36 +1,40 @@
 class Solution {
 public:
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        set<string> s;
-        for(auto x:wordList){
+    int ladderLength(string bw, string ew, vector<string>& wl) {
+        set<string>s;
+        for(auto x:wl){
             s.insert(x);
         }
-        queue<pair<string,int>>q;
-        q.push({beginWord,1});
-        int ma=0;
+        if(s.find(ew)==s.end()){
+            return 0;
+        }
+        queue<string>q;
+        q.push(bw);
+        if(s.find(bw)!=s.end()){
+            s.erase(bw);
+        }
+        int ans=0;
         while(!q.empty()){
-            string st1=q.front().first;
-            int l=q.front().second;
-            q.pop();
-            if(st1==endWord){
-                ma=l;
-                break;
-            }
-            for(int i=0;i<st1.size();i++){
-                string ch=st1;
-                int j='a';
-                int end='z';
-                while(j<=end){
-                    ch[i]=char(j);
-                    auto it=s.find(ch);
-                    if(it!=s.end()){
-                        s.erase(ch);
-                        q.push({ch,l+1});
+            ans++;
+            int si=q.size();
+            for(int i=0;i<si;i++){
+                string a=q.front();
+                q.pop();
+                if(a==ew){
+                    return ans;
+                }
+                for(int j=0;j<a.size();j++){
+                    for(char l='a';l<='z';l++){
+                        string b=a.substr(0,j)+l+a.substr(j+1);
+                        if(s.find(b)!=s.end()){
+                            q.push(b);
+                            s.erase(b);
+                        }
                     }
-                    j++;
                 }
             }
         }
-        return ma;
+        return 0;
+
     }
 };
