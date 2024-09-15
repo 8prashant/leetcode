@@ -146,6 +146,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
 |  |
@@ -154,6 +155,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0560-subarray-sum-equals-k](https://github.com/8prashant/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/8prashant/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
@@ -217,6 +219,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1250-longest-common-subsequence](https://github.com/8prashant/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/8prashant/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/8prashant/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
@@ -404,6 +407,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/8prashant/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/8prashant/leetcode/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8prashant/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
 |  |
