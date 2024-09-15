@@ -42,6 +42,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1484-linked-list-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
+| [2439-longest-cycle-in-a-graph](https://github.com/8prashant/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -67,11 +68,13 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/8prashant/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/8prashant/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/8prashant/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2439-longest-cycle-in-a-graph](https://github.com/8prashant/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/8prashant/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Linked List
 |  |
 | ------- |
