@@ -102,6 +102,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0312-burst-balloons](https://github.com/8prashant/leetcode/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/8prashant/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/8prashant/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/8prashant/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -163,6 +164,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0273-integer-to-english-words](https://github.com/8prashant/leetcode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/8prashant/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/8prashant/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/8prashant/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -195,6 +197,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/8prashant/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8prashant/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -212,6 +215,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0132-palindrome-partitioning-ii](https://github.com/8prashant/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/8prashant/leetcode/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/8prashant/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
