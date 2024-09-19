@@ -1,5 +1,6 @@
 class Solution {
 public:
+    map<pair<int,int>,vector<int>>m;
     vector<int> check(string st1,int i,int j){
         if(i==j || j-i==1){
             string s="";
@@ -7,6 +8,9 @@ public:
                 s+=st1[l];
             }
             return {stoi(s)};
+        }
+        if(m.find({i,j})!=m.end()){
+            return m[{i,j}];
         }
         vector<int>ans;
         for(int k=i;k<=j;k++){
@@ -36,6 +40,7 @@ public:
                 }
             }
         }
+        m[{i,j}]=ans;
         return ans;
 
     }
