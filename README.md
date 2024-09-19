@@ -168,6 +168,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/8prashant/leetcode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/8prashant/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
@@ -223,6 +224,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0127-word-ladder](https://github.com/8prashant/leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/8prashant/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/8prashant/leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/8prashant/leetcode/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
@@ -247,6 +249,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/8prashant/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/8prashant/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/8prashant/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/8prashant/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/8prashant/leetcode/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
@@ -266,6 +269,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/8prashant/leetcode/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/8prashant/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -436,4 +440,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8prashant/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
