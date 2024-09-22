@@ -219,6 +219,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/8prashant/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/8prashant/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
@@ -358,6 +359,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/8prashant/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/8prashant/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
@@ -459,6 +461,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/8prashant/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/8prashant/leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/8prashant/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
