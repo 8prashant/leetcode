@@ -1,29 +1,30 @@
 class Solution {
 public:
     string shortestPalindrome(string s) {
-        int count = kmp(string(s.rbegin(), s.rend()), s);
-        return string(s.rbegin(), s.rend()).substr(0, s.length() - count) + s;
-    }
-
-private:
-    int kmp(const string &txt, const string &patt) {
-        string newString = patt + '#' + txt;
-        vector<int> pi(newString.length(), 0);
-        int i = 1, k = 0;
-        while (i < newString.length()) {
-            if (newString[i] == newString[k]) {
-                k++;
-                pi[i] = k;
+        string str=s;
+        reverse(str.begin(),str.end());
+        str=s+"#"+str;
+        int n=str.size();
+        vector<int>lps(n,0);
+        int i=1;
+        int len=0;
+        while(i<n){
+            if(str[i]==str[len]){
+                lps[i]=len+1;
                 i++;
-            } else {
-                if (k > 0) {
-                    k = pi[k - 1];
-                } else {
-                    pi[i] = 0;
+                len++;
+            }
+            else{
+                if(len==0){
+                    lps[i]=0;
                     i++;
+                }
+                else{
+                    len=lps[len-1];
                 }
             }
         }
-        return pi.back();
+        int l=lps[n-1];
+        return str.substr(s.size()+1,(s.size()-l))+s;
     }
 };
