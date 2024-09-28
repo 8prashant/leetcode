@@ -85,6 +85,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/8prashant/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/8prashant/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/8prashant/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -114,6 +115,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/8prashant/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/8prashant/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -292,6 +294,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -395,6 +398,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/8prashant/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Binary Search Tree
 |  |
