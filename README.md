@@ -407,6 +407,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/8prashant/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
+| [2357-count-integers-in-intervals](https://github.com/8prashant/leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Binary Search Tree
 |  |
@@ -508,10 +509,12 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
+| [2357-count-integers-in-intervals](https://github.com/8prashant/leetcode/tree/master/2357-count-integers-in-intervals) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
+| [2357-count-integers-in-intervals](https://github.com/8prashant/leetcode/tree/master/2357-count-integers-in-intervals) |
 <!---LeetCode Topics End-->
