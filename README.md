@@ -129,6 +129,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1511-count-number-of-teams](https://github.com/8prashant/leetcode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/8prashant/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/8prashant/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
@@ -161,6 +162,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
@@ -517,4 +519,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
 | [2357-count-integers-in-intervals](https://github.com/8prashant/leetcode/tree/master/2357-count-integers-in-intervals) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
