@@ -136,6 +136,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1753-path-with-minimum-effort](https://github.com/8prashant/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/8prashant/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1983-maximum-population-year](https://github.com/8prashant/leetcode/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/8prashant/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -177,6 +178,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/8prashant/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1983-maximum-population-year](https://github.com/8prashant/leetcode/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
@@ -527,6 +529,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1983-maximum-population-year](https://github.com/8prashant/leetcode/tree/master/1983-maximum-population-year) |
 ## Line Sweep
 |  |
 | ------- |
