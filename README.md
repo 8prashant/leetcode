@@ -99,6 +99,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/8prashant/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0056-merge-intervals](https://github.com/8prashant/leetcode/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/8prashant/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/8prashant/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8prashant/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -225,6 +226,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/8prashant/leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/8prashant/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/8prashant/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
