@@ -414,6 +414,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Design
 |  |
 | ------- |
+| [0715-range-module](https://github.com/8prashant/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
@@ -519,6 +520,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/8prashant/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
@@ -526,6 +528,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/8prashant/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
