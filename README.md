@@ -133,6 +133,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/8prashant/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/8prashant/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 | [1753-path-with-minimum-effort](https://github.com/8prashant/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -167,6 +168,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/8prashant/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -181,6 +183,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/8prashant/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1694-make-sum-divisible-by-p](https://github.com/8prashant/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1983-maximum-population-year](https://github.com/8prashant/leetcode/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
