@@ -227,6 +227,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0179-largest-number](https://github.com/8prashant/leetcode/tree/master/0179-largest-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/8prashant/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/8prashant/leetcode/tree/master/0890-lemonade-change) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
@@ -273,6 +274,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1508-longest-happy-prefix](https://github.com/8prashant/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/8prashant/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -327,6 +329,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1197-parsing-a-boolean-expression](https://github.com/8prashant/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/8prashant/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -403,6 +406,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0567-permutation-in-string](https://github.com/8prashant/leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/8prashant/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
