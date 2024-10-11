@@ -141,6 +141,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1983-maximum-population-year](https://github.com/8prashant/leetcode/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/8prashant/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/8prashant/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8prashant/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -170,6 +171,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/8prashant/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/8prashant/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -447,6 +449,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1325-path-with-maximum-probability](https://github.com/8prashant/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/8prashant/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/8prashant/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/8prashant/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Data Stream
 |  |
