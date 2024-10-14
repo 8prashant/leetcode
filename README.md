@@ -147,6 +147,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8prashant/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8prashant/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/8prashant/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -239,6 +240,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8prashant/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/8prashant/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -462,6 +464,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1977-minimum-interval-to-include-each-query](https://github.com/8prashant/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/8prashant/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8prashant/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/8prashant/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Data Stream
 |  |
