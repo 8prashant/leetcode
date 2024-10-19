@@ -92,6 +92,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/8prashant/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/8prashant/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -288,6 +289,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/8prashant/leetcode/tree/master/1508-longest-happy-prefix) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/8prashant/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/8prashant/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/8prashant/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -330,6 +332,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/8prashant/leetcode/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/8prashant/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/8prashant/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
