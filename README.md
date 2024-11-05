@@ -305,6 +305,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/8prashant/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2580-circular-sentence](https://github.com/8prashant/leetcode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/8prashant/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/8prashant/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
