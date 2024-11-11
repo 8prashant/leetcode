@@ -154,6 +154,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2554-minimum-total-distance-traveled](https://github.com/8prashant/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/8prashant/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/8prashant/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -215,6 +216,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0650-2-keys-keyboard](https://github.com/8prashant/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/8prashant/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8prashant/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/8prashant/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/8prashant/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -382,6 +385,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1977-minimum-interval-to-include-each-query](https://github.com/8prashant/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/8prashant/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/8prashant/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Tree
 |  |
 | ------- |
@@ -600,4 +604,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/8prashant/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
