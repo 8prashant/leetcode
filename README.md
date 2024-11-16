@@ -159,6 +159,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8prashant/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/8prashant/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/8prashant/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8prashant/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Union Find
 |  |
 | ------- |
