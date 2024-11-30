@@ -1,28 +1,26 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int low=0,high=nums.size()-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
+        int i=0,j=nums.size()-1;
+        while(i<=j){
+            int mid=(j-i)/2+i;
             if(nums[mid]==target){
                 return mid;
             }
-            if(nums[low]<=nums[mid]){
-                cout<<"left"<<endl;
-                if(nums[low]<=target  && target<=nums[mid]){
-                    high=mid-1;
+            if(nums[i]<=nums[mid]){
+                if(nums[i]<=target && nums[mid]>target){
+                    j=mid-1;
                 }
                 else{
-                    low=mid+1;
+                    i=mid+1;
                 }
             }
-            else if(nums[high]>nums[mid]){
-                cout<<"right"<<endl;
-                if(target>=nums[mid] && target<=nums[high]){
-                    low=mid+1;
+            else{
+                if(nums[mid]<target && nums[j]>=target){
+                    i=mid+1;
                 }
                 else{
-                    high=mid-1;
+                    j=mid-1;
                 }
             }
         }
