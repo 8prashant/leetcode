@@ -1,23 +1,15 @@
 class Solution {
 public:
-    int findKthPositive(vector<int>& vec, int k) {
-        int n=vec.size();
-        if(k<vec[0]){
-            return k;
-        }
-        int low=0,high=n-1;
-        int ans;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(vec[mid]-(mid+1)>=k){
-                ans=mid;
-                high=mid-1;
+    int findKthPositive(vector<int>& arr, int k) {
+        int ans=k;
+        for(auto x:arr){
+            if(x<=ans){
+                ans++;
             }
             else{
-                low=mid+1;
+                return ans;
             }
         }
-        // cout<<"high="<<high<<endl;
-        return vec[high]+(k-(vec[high]-(high+1)));
+        return ans;
     }
 };
