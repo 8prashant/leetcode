@@ -7,20 +7,26 @@ public:
             if(nums[mid]==target){
                 return true;
             }
-            if(nums[i]<=nums[mid]){
-                if(nums[i]<=target && nums[mid]>target){
-                    j=mid-1;
-                }
-                else{
-                    i=mid+1;
-                }
+            if(nums[i]==nums[mid]&&nums[mid]==nums[j]){
+                i++;
+                j--;
             }
-            else{
-                if(nums[mid]<target && nums[j]>=target){
-                    i=mid+1;
+                else{
+                if(nums[i]<=nums[mid]){
+                    if(nums[i]<=target && nums[mid]>target){
+                        j=mid-1;
+                    }
+                    else{
+                        i=mid+1;
+                    }
                 }
                 else{
-                    j=mid-1;
+                    if(nums[mid]<target && nums[j]>=target){
+                        i=mid+1;
+                    }
+                    else{
+                        j=mid-1;
+                    }
                 }
             }
         }
