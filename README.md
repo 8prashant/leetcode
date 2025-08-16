@@ -114,6 +114,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0179-largest-number](https://github.com/8prashant/leetcode/tree/master/0179-largest-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/8prashant/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/8prashant/leetcode/tree/master/0312-burst-balloons) |
+| [0416-partition-equal-subset-sum](https://github.com/8prashant/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/8prashant/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
@@ -351,6 +352,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/8prashant/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/8prashant/leetcode/tree/master/0312-burst-balloons) |
+| [0416-partition-equal-subset-sum](https://github.com/8prashant/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/8prashant/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0583-delete-operation-for-two-strings) |
