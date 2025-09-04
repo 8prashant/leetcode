@@ -241,6 +241,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/8prashant/leetcode/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
 | ------- |
