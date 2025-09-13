@@ -212,6 +212,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2586-longest-square-streak-in-an-array](https://github.com/8prashant/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/8prashant/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -348,6 +349,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/8prashant/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/8prashant/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/8prashant/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -657,6 +659,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1983-maximum-population-year](https://github.com/8prashant/leetcode/tree/master/1983-maximum-population-year) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/8prashant/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Line Sweep
 |  |
 | ------- |
