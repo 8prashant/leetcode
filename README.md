@@ -133,6 +133,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/8prashant/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/8prashant/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/8prashant/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/8prashant/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -196,6 +197,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0797-rabbits-in-forest](https://github.com/8prashant/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/8prashant/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/8prashant/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/8prashant/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8prashant/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
