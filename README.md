@@ -139,6 +139,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1121-partition-array-for-maximum-sum](https://github.com/8prashant/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/8prashant/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/8prashant/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1266-minimum-time-visiting-all-points](https://github.com/8prashant/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1325-path-with-maximum-probability](https://github.com/8prashant/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/8prashant/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -246,6 +247,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0564-find-the-closest-palindrome](https://github.com/8prashant/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/8prashant/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/8prashant/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1266-minimum-time-visiting-all-points](https://github.com/8prashant/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/8prashant/leetcode/tree/master/1390-four-divisors) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -685,6 +687,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/8prashant/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
