@@ -182,6 +182,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3453-separate-squares-i](https://github.com/8prashant/leetcode/tree/master/3453-separate-squares-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8prashant/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -447,6 +448,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2586-longest-square-streak-in-an-array](https://github.com/8prashant/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/8prashant/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3453-separate-squares-i](https://github.com/8prashant/leetcode/tree/master/3453-separate-squares-i) |
 ## Tree
 |  |
 | ------- |
