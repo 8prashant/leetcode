@@ -178,6 +178,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2692-take-gifts-from-the-richest-pile](https://github.com/8prashant/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/8prashant/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/8prashant/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -316,6 +317,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2554-minimum-total-distance-traveled](https://github.com/8prashant/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/8prashant/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/8prashant/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/8prashant/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
 |  |
