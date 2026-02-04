@@ -186,6 +186,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-separate-squares-i](https://github.com/8prashant/leetcode/tree/master/3453-separate-squares-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8prashant/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3640-trionic-array-ii](https://github.com/8prashant/leetcode/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -400,6 +401,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2067-maximum-number-of-points-with-cost](https://github.com/8prashant/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2554-minimum-total-distance-traveled](https://github.com/8prashant/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/8prashant/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3640-trionic-array-ii](https://github.com/8prashant/leetcode/tree/master/3640-trionic-array-ii) |
 ## Recursion
 |  |
 | ------- |
