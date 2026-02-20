@@ -310,6 +310,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/8prashant/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/8prashant/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
+| [0761-special-binary-string](https://github.com/8prashant/leetcode/tree/master/0761-special-binary-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/8prashant/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/8prashant/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/8prashant/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -347,6 +348,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0583-delete-operation-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/8prashant/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/8prashant/leetcode/tree/master/0726-number-of-atoms) |
+| [0761-special-binary-string](https://github.com/8prashant/leetcode/tree/master/0761-special-binary-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/8prashant/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/8prashant/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/8prashant/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -627,6 +629,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/8prashant/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/8prashant/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0761-special-binary-string](https://github.com/8prashant/leetcode/tree/master/0761-special-binary-string) |
 ## Brainteaser
 |  |
 | ------- |
