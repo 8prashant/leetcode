@@ -251,6 +251,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0539-minimum-time-difference](https://github.com/8prashant/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/8prashant/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/8prashant/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/8prashant/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/8prashant/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1266-minimum-time-visiting-all-points](https://github.com/8prashant/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/8prashant/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -622,6 +623,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/8prashant/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/8prashant/leetcode/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/8prashant/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8prashant/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
