@@ -23,8 +23,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/8prashant/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -48,8 +48,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2439-longest-cycle-in-a-graph](https://github.com/8prashant/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/8prashant/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -66,8 +66,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2171-second-minimum-time-to-reach-destination](https://github.com/8prashant/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/8prashant/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/8prashant/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -77,21 +77,21 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2439-longest-cycle-in-a-graph](https://github.com/8prashant/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/8prashant/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/8prashant/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/8prashant/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/8prashant/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/8prashant/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0906-walking-robot-simulation](https://github.com/8prashant/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/8prashant/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -100,8 +100,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8prashant/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/8prashant/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/8prashant/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/8prashant/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/8prashant/leetcode/tree/master/0049-group-anagrams) |
@@ -189,8 +189,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8prashant/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3640-trionic-array-ii](https://github.com/8prashant/leetcode/tree/master/3640-trionic-array-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/8prashant/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/8prashant/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
@@ -226,8 +226,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/8prashant/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/8prashant/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/8prashant/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
@@ -243,8 +243,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/8prashant/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3034-points-that-intersect-with-cars](https://github.com/8prashant/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0066-plus-one](https://github.com/8prashant/leetcode/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/8prashant/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -263,8 +263,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3830-find-closest-person](https://github.com/8prashant/leetcode/tree/master/3830-find-closest-person) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/8prashant/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/8prashant/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -279,15 +279,15 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8prashant/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/8prashant/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/8prashant/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/8prashant/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/8prashant/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/8prashant/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/8prashant/leetcode/tree/master/0179-largest-number) |
@@ -304,8 +304,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/8prashant/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/8prashant/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/8prashant/leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/8prashant/leetcode/tree/master/0179-largest-number) |
@@ -328,8 +328,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/8prashant/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/8prashant/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/8prashant/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -374,8 +374,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/8prashant/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/8prashant/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/8prashant/leetcode/tree/master/0072-edit-distance) |
@@ -410,8 +410,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2586-longest-square-streak-in-an-array](https://github.com/8prashant/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3640-trionic-array-ii](https://github.com/8prashant/leetcode/tree/master/3640-trionic-array-ii) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/8prashant/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/8prashant/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -421,13 +421,13 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/8prashant/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0859-design-circular-deque](https://github.com/8prashant/leetcode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/8prashant/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/8prashant/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/8prashant/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/8prashant/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -439,8 +439,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/8prashant/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/8prashant/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/8prashant/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/8prashant/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/8prashant/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -463,8 +463,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3453-separate-squares-i](https://github.com/8prashant/leetcode/tree/master/3453-separate-squares-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/8prashant/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -484,8 +484,8 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1484-linked-list-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/8prashant/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/8prashant/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/8prashant/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -505,19 +505,19 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1484-linked-list-in-binary-tree](https://github.com/8prashant/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/8prashant/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1325-path-with-maximum-probability](https://github.com/8prashant/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/8prashant/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/8prashant/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1511-count-number-of-teams](https://github.com/8prashant/leetcode/tree/master/1511-count-number-of-teams) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/8prashant/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/8prashant/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/8prashant/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -534,13 +534,13 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2699-count-the-number-of-fair-pairs](https://github.com/8prashant/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/8prashant/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0494-target-sum](https://github.com/8prashant/leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/8prashant/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/8prashant/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/8prashant/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/8prashant/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -551,12 +551,12 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2035-count-sub-islands](https://github.com/8prashant/leetcode/tree/master/2035-count-sub-islands) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/8prashant/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Strongly Connected Component
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/8prashant/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0715-range-module](https://github.com/8prashant/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
@@ -566,12 +566,12 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2357-count-integers-in-intervals](https://github.com/8prashant/leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/8prashant/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/8prashant/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/8prashant/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/8prashant/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -583,12 +583,12 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/8prashant/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/8prashant/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/8prashant/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0176-second-highest-salary](https://github.com/8prashant/leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/8prashant/leetcode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/8prashant/leetcode/tree/master/0185-department-top-three-salaries) |
@@ -623,92 +623,92 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [1942-primary-department-for-each-employee](https://github.com/8prashant/leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/8prashant/leetcode/tree/master/2057-count-salary-categories) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/8prashant/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/8prashant/leetcode/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/8prashant/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/8prashant/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8prashant/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/8prashant/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/8prashant/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0761-special-binary-string](https://github.com/8prashant/leetcode/tree/master/0761-special-binary-string) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/8prashant/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/8prashant/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/8prashant/leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/8prashant/leetcode/tree/master/1508-longest-happy-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/8prashant/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/8prashant/leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/8prashant/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/8prashant/leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/8prashant/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/8prashant/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/8prashant/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/8prashant/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0715-range-module](https://github.com/8prashant/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
 | [2357-count-integers-in-intervals](https://github.com/8prashant/leetcode/tree/master/2357-count-integers-in-intervals) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0715-range-module](https://github.com/8prashant/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/8prashant/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/8prashant/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/8prashant/leetcode/tree/master/0732-my-calendar-iii) |
 | [2357-count-integers-in-intervals](https://github.com/8prashant/leetcode/tree/master/2357-count-integers-in-intervals) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/8prashant/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1983-maximum-population-year](https://github.com/8prashant/leetcode/tree/master/1983-maximum-population-year) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/8prashant/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Line Sweep
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/8prashant/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2716-prime-subtraction-operation](https://github.com/8prashant/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/8prashant/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/8prashant/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/8prashant/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
