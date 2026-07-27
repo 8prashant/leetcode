@@ -104,6 +104,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/8prashant/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/8prashant/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/8prashant/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/8prashant/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/8prashant/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/8prashant/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -190,6 +191,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/8prashant/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/8prashant/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/8prashant/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -304,6 +306,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/8prashant/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/8prashant/leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/8prashant/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/8prashant/leetcode/tree/master/0455-assign-cookies) |
@@ -331,6 +334,7 @@ Now, enough chit-chat. Let's dive into these coding challenges and emerge as cod
 | [0014-longest-common-prefix](https://github.com/8prashant/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/8prashant/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/8prashant/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/8prashant/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/8prashant/leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/8prashant/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/8prashant/leetcode/tree/master/0076-minimum-window-substring) |
